@@ -10309,6 +10309,9 @@ header .search-form .form-control {
   overflow: hidden;
   text-align: center;
 }
+.link-thumbnail img{
+  max-height: 20rem;
+}
 @media (max-width: 991.98px) {
   .link-thumbnail {
     margin-bottom: 30px;
